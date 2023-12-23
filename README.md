@@ -10,7 +10,7 @@ I'm a curious student at 42 Abu Dhabi, diving into the world of coding and techn
 
 ## Current Focus
 
-I am currently focusing on sharping my skills in C and C++, and I am enthusiastic about collaborating with fellow developers to create meaningful and innovative solutions, as well as leraning new languages. 
+I am currently focusing on sharping my skills in C and C++, and I am enthusiastic about collaborating with fellow developers to create meaningful and innovative solutions, as well as learning new languages. 
 
 ## Get in Touch
 
