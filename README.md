@@ -1,5 +1,4 @@
 # Hello, I'm Paula! 👋
-# It’s nice to meet you.
 
 I'm a curious student at 42 Abu Dhabi, diving into the world of coding and technology. My journey involves exploring diverse projects, learning new languages, and embracing the challenges that come with being a part of the lively tech community.
 
