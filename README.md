@@ -14,7 +14,6 @@ I am currently focusing on sharping my skills in C, C++ and JavaScript, and I am
 
 ## Get in Touch
 
-- 📧 Email: pbalbino@student.42abudhabi.ae
 - 🔗 LinkedIn: Paula Lucena Balbino https://www.linkedin.com/in/paula-lucena/
 
 Feel free to connect with me! 
