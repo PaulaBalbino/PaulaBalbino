@@ -13,10 +13,10 @@ I'm a curious student at 42 Abu Dhabi, diving into the world of coding and techn
 I'm currently dedicated to mastering HTML, CSS, JavaScript, and React to become a skilled Front-End Developer. My goal is to build user-centric, responsive, and high-performance web applications while following best practices in modern web development.
 
 I'm constantly improving my skills in:
-✨ Writing clean, maintainable, and scalable code
-🎨 Creating intuitive and accessible UI/UX
-⚡ Optimizing performance and responsiveness
-📚 Learning and applying the latest industry standards
+- ✨ Writing clean, maintainable, and scalable code
+- 🎨 Creating intuitive and accessible UI/UX
+- ⚡ Optimizing performance and responsiveness
+- 📚 Learning and applying the latest industry standards
 
 Stay tuned for my latest projects and contributions! 
 
